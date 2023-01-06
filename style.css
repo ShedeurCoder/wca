@@ -14,3 +14,22 @@ table * {
     color: white;
     font-size: 1.3rem;
 }
+#records-nav a {
+    padding-inline: 1%;
+    color: white;
+    font-size: 1.3rem;
+}
+.back-to-top {
+    position: fixed;
+    right: 0;
+    bottom: 15%;
+    display: inline-block;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    color: white;
+}
+.back-to-top:hover {
+    text-decoration: none;
+    color: white;
+}
