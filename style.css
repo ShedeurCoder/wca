@@ -1,0 +1,16 @@
+.bg-very-dark {
+    background-color: black
+}
+nav a {
+    font-size: 1.3rem;
+}
+.logo {
+    width: 50%;
+}
+p, footer {
+    font-size: 1.3rem;
+}
+table * {
+    color: white;
+    font-size: 1.3rem;
+}
